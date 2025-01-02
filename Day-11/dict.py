@@ -15,3 +15,5 @@ new = {'a': 'A',
        'c' : {'d':'D','e':'E'}
        } #nested dictionary
 print(new)
+x = dict.fromkeys(my_dict)
+print(my_dict|new) # " | "  operator is used to merge two dictionaries that have different data into one.
