@@ -15,3 +15,4 @@ w = int(input())
 for fahrenheit in range(s , e+1, w):
     celsius = fahrenheit_to_celsius(fahrenheit)
     print(f"{fahrenheit}\t{celsius}")
+    
