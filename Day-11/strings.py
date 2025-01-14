@@ -14,3 +14,5 @@ b = "I am a learner"
 print(b)
 for x in b:
     print(x)  #we can use a for loop to traverse through the characters in a string.
+res = a.replace("Lorem", "Code")
+print(res)
