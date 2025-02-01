@@ -7,6 +7,5 @@ def fibonacci(n):
     # Recursive case
     else:
         return fibonacci(n-1) + fibonacci(n-2)
-
 # Example usage
 print(fibonacci(10))
