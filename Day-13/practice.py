@@ -5,6 +5,8 @@ Example:
 Input: 'n' = 5, 'arr' = [1, 2, 3, 4, 5]
 Output: 5
 """
+
+.
 from sys import *
 from collections import *
 from math import *
